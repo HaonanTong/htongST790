@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516069285747.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4DFC10EF",
+    "lastKnownWriteTime" : 1516073743,
+    "last_content_update" : 1516073743487,
+    "path" : "~/htongST790/R/dd_exact.R",
+    "project_path" : "R/dd_exact.R",
+    "properties" : {
+        "cursorPosition" : "12,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
